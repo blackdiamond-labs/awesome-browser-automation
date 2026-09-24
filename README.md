@@ -68,6 +68,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 * [onUI](https://github.com/onllm-dev/onUI) - Browser extension and MCP server for annotation-first UI pair programming with AI agents.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
+* [Scalebrowser](https://scalebrowser.net) - Persistent browser profiles for AI agents, running on your hardware and staying signed in across every run.
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 * [Webcmd](https://github.com/agentrhq/webcmd) - CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.
